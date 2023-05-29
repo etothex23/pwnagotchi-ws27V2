@@ -1,3 +1,5 @@
+##Careful using this method. You will have to make any necessary changes. I used it to preload the pwnagotchi with the files and then cop them over after boot.
+
 #!/bin/bash
 
 cd /boot/ws27inv2_fix/pwnagotchi/
